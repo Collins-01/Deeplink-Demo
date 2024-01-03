@@ -3,5 +3,6 @@
 class RoutePaths {
   static const HOME = '/';
   static const SPLASH_SCREEN = '/splash_screen';
-  static const String DETAILS = '/details/:id';
+  static const String DETAILS = '/details';
+  static const String DEEP_LINK_ENTRY = '/deep_link_entry';
 }
